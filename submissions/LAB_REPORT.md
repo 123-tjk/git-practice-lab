@@ -4,9 +4,9 @@
 
 ## 基本信息
 
-- **GitHub 用户名：** <!-- 填写 -->
-- **功能分支名：** `lab/`<!-- 填写用户名 -->
-- **PR 链接：** <!-- 开好 PR 后粘贴 -->
+- **GitHub 用户名：123-tjk
+- **功能分支名：git-practice-lab分支
+- **PR 链接：
 
 ## 阶段清单
 
@@ -36,7 +36,7 @@ git pull:将远端的内容同步进工作区
 
 ### 4. 带 submodule 的仓库 clone 后子目录是空的，常见原因是什么？怎么处理？
 
-<!-- 你的回答 -->
+.gitmodules 没提交,让仓库维护者补交 .gitmodules 和 gitlink
 
 ## 关键 commit（填写短 hash 或完整 hash）
 
@@ -49,7 +49,7 @@ b2fa91f76cbf2f847a2f8e2b4fb6d67a62b5b536
 | Stage 3 revert 产生的 commit | |
 05237311b7ccb71759bed43099efefda86c8c17a
 | Stage 4 submodule add 的 commit | |
-
+17c4e36b2e970c8d2b0db57f799b0c5498a79bef
 
 ## Stage 2 补充
 
@@ -58,8 +58,8 @@ b2fa91f76cbf2f847a2f8e2b4fb6d67a62b5b536
 
 ## Stage 5 补充
 
-- 同步 `upstream/main` 时使用：□ merge　□ rebase
-- 选择理由：
+- 同步 `upstream/main` 时使用：merge　
+- 选择理由：merge能看懂，rebase感觉怪怪的，怕出问题
 
 ## 其他备注（可选）
 
