@@ -1,4 +1,4 @@
 # Greeting
-原神
+原神牛逼
 鸣潮
 Hello from main starter.
