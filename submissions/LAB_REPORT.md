@@ -6,7 +6,7 @@
 
 - **GitHub 用户名：123-tjk
 - **功能分支名：git-practice-lab分支
-- **PR 链接：
+- **PR 链接：https://github.com/kiramint/git-practice-lab/pull/1
 
 ## 阶段清单
 
